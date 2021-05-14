@@ -1,0 +1,7 @@
+Smith College GrubHub Menu:
+
+House Options: Lamont, Tyler, King, Cutter/Ziskind
+Main Meals: Bowl, Salad, Cheeseburger, Salmon, Chicken Nuggets, Tacos, Sandwich, Quesadilla 
+Side Meals: Fries, Fruit, Chips, Salad, Beans, Hardboiled eggs
+Dessert: Cake, Oreos, Chia Pudding, Cannolis, Churros
+Drink: Milk, Pepsi, Diet Pepsi, Water
